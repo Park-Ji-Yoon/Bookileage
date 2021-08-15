@@ -1,4 +1,4 @@
-# 도서관 관리 프로그램 - 북일리지
+# 도서관 관리 프로그램 - 북일리지/Bookileage
 > 도서관의 도서들을 관리하는 프로그램
 
 <!-- [![NPM Version][npm-image]][npm-url]
